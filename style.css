@@ -1,0 +1,17 @@
+/* styles.css */
+
+*{
+    background-color: rgb(60, 60, 60)
+}
+
+*{
+    color: rgb(166, 240, 243);
+}
+
+*{
+    text-align: center;
+}
+
+.link{
+    color: rgb(0, 0, 180);
+}
